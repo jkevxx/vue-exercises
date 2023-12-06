@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Template from './components/Template.vue';
+import Counter from './components/Counter.vue';
 </script>
 
 <template>
-  <Template msg="This is a template" />
+  <Counter msg="This is a counter" />
 </template>
 
 <style scoped></style>
